@@ -1,0 +1,4 @@
+#Fri Dec 11 14:32:56 WITA 2020
+base.0=/home/dartoyo/programming/unity/Space Journey/SpaceJourney/launcher/build/intermediates/dex/release/out/classes.dex
+path.0=classes.dex
+renamed.0=classes.dex
